@@ -4,6 +4,9 @@
 # https://github.com^/zangadoprojets/pi-hole-blocklist
 # ||Report if you find a problem or want to add an address.
 #--------------------------------------------------------#
+ ||-------------------.googlevideo.com^
+ ||------------------.googlevideo.com^
+ ||rr11---sn-pmcg-bg0z.googlevideo.com^
  ||rr4---sn-pmcg-bg0s.googlevideo.com^
  ||rr2---sn-pmcg-bg0r.googlevideo.com^
  ||rr2---sn-pmcg-bg0k.googlevideo.com^
